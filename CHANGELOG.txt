@@ -1,0 +1,101 @@
+LEGION 0.3.8
+
+* Bug fixes
+* Preperation to move to postgresql backend
+
+LEGION 0.3.7
+
+* Bug fixes for several edge cases
+* Screenshot fixes
+* Service version data overwrite bug fixed
+* Stale service version data bug fixed
+* Refactor of docker base image
+
+LEGION 0.3.6
+
+* Significant code refactoring
+
+LEGION 0.3.5
+
+* Bug Fixes
+* Copy from tables using double click
+* CVE -> ExploitDB redesign using pyExploitDb and bugfixes
+
+LEGION 0.3.4
+
+* Depnendancy polish
+* Minor UI and schedule changes
+
+LEGION 0.3.3
+
+* Fix hydra 8.7+ issues
+* Fix minor UI update issues
+
+LEGION 0.3.2
+
+* Stage 3 is now vulners scan
+* Former stages 3, 4 and 5 are respectively 4, 5 and 6 now
+* Config editor dialog
+
+LEGION 0.3.1
+
+* UI polish everywhere (element sizing, scaling, icons, tooltips, etc.)
+* Code cleanup
+* UI performance improvements
+* More port actions
+
+LEGION 0.3.0
+
+* UI polish everywhere (element sizing, scaling, icons, etc.)
+* Code cleanup
+* Highly configurable host addition dialog
+* Stability improvements
+* Docker image of preconfigured application published to DockerHub
+
+LEGION 0.2.4
+
+* Open SPRT and Legion files
+* Resolve file open/save access issue
+* Consolidate lower panel
+
+LEGION 0.2.3
+
+* Bug fixes for edge cases
+* Elapsed and estimated remaining time for processes
+* Host 1-M CVE UI element added
+* Service 1-M CVE UI element added
+* CVE object model revised
+* Improved UI performance
+
+LEGION 0.2.2
+
+* Bug fixes for edge cases
+* In UI Logging panel
+* Thread safe logging
+* Add AzureCveQuery Plugin
+* Setup to use AsyncIO
+* Dep installer fixes
+* Addition of .justcloned to re-initalize on cloning / pull to update
+
+LEGION 0.2.1
+
+* Fixed DB relationships
+* Removed X requirement for screen captures
+* Revised HTTP/HTTPS detection
+* Fixed Host panel columns
+* Fixed process lanuches for discovered services
+* Fixed context menus so they show applicable actions for context
+* Fixed note unique keys
+
+LEGION 0.2.0
+
+* Port to PyQt5
+* Handle process output encoding issues
+* Added dependancy installer
+
+LEGION 0.1.1
+
+* Support for WSL (Windows Subsystem for Linux)
+* Removed Elixir
+* Converted to Python3.5+
+* Process handeling ensures dead processes are shown as crashed or finished

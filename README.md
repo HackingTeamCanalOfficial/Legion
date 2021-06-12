@@ -226,3 +226,4 @@ Legion is licensed under the GNU General Public License v3.0. Take a look at the
 would like to thank all of the people involved in the creation of those.
 * Special thanks to Dmitriy Dubson for his continued contributions to the project!
 
+# Legion
