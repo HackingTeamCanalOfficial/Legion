@@ -225,3 +225,4 @@ Legion is licensed under the GNU General Public License v3.0. Take a look at the
 * Legion relies heavily on nmap, hydra, python, PyQt, SQLAlchemy and many other tools and technologies so we 
 would like to thank all of the people involved in the creation of those.
 * Special thanks to Dmitriy Dubson for his continued contributions to the project!
+
